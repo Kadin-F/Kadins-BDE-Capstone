@@ -1,0 +1,31 @@
+EmployeeId,Name,Position,WeeklyHours,SupervisorID,WorkloadPerHour
+1,Madison Spencer,CEO,40,1,Not Applicable
+2,Isaac Frost,Packing Team Manager,40,1,Not Applicable
+3,Cailyn Good,Customer Service Manager,40,1,Not Applicable
+4,Matilda Malone,Packer,38,2,144
+5,Kiera Cooper,Packer,36,2,162
+6,Yael Best,Packer,32,2,197
+7,Brock Anthony,Packer,30,2,131
+8,Lexi Jordan,Packer,34,2,161
+9,Natalia Mcbride,Packer,40,2,156
+10,Deacon Vang,Packer,38,2,135
+11,Rolando Humphrey,Packer,35,2,129
+12,Nick Ramsey,Packer,36,2,167
+13,Damaris Serrano,Packer,32,2,117
+14,Brennan Bauer,Packer,35,2,149
+15,Finnegan Castaneda,Packer,40,2,152
+16,Jay Carlson,Packer,33,2,100
+17,Ellis Pham,Packer,40,2,111
+18,Shannon Carson,Packer,36,2,184
+19,Jeramiah Frederick,Packer,37,2,121
+20,Britney Zhang,Packer,30,2,162
+21,Micheal Carpenter,Packer,34,2,152
+22,Stephen Schultz,Packer,30,2,128
+23,Brennan Stout,Packer,33,2,134
+24,Karsyn Boyer,Customer Service Representative,30,3,25
+25,Spencer Costa,Customer Service Representative,32,3,17
+26,Brenna Smith,Customer Service Representative,33,3,24
+27,Nylah Cisneros,Customer Service Representative,40,3,17
+28,Camden Neal,Customer Service Representative,39,3,19
+29,Alejandra Davenport,Customer Service Representative,39,3,17
+30,Ansley Kramer,Customer Service Representative,32,3,20
